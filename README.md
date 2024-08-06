@@ -1,2 +1,1 @@
-Hello Hexlet
-expirement with amend
+text
