@@ -1,1 +1,2 @@
-text
+git is awesome!
+file add
